@@ -1,19 +1,15 @@
 ## Hi there! 👋 I'm ÖZLEM ARSLAN 👩‍💻
 
 Welcome to my GitHub profile!  
-I'm an **aspiring Full Stack Developer** passionate about building innovative, scalable, and user-friendly applications. I aim to continuously learn and contribute to the tech community with solutions that make a positive impact.
+I'm an **IT Support professional** with hands-on experience in troubleshooting, system management, and user support. My current focus is on **IT infrastructure, network, and system management**, while also exploring Full Stack Development as a complementary skill.
 
 ### 👩‍🏫 About Me
 - 🎓 **Education**: Management Information Systems graduate from İstanbul Gelişim University.  
 - 💼 **Experience**:  
-  - IT Specialist Intern at **Archem Diagnostics**.  
-  - Gained experience in **C#, SQL, Unity**, and more.  
-- 🚀 **Current Focus**: Full Stack Development using **C#, .NET, HTML5, CSS, SQL**, and **Microservices** architecture.  
-- 💡 **Volunteer Work**: Actively participated in **community service projects** with Toplum Gönüllüleri and Spor İstanbul, such as:  
-  - Cleaning coastal areas.  
-  - Supporting events for social causes.  
-  - Motivating marathon runners and assisting in logistics.  
-- 🔍 **Ongoing Learning**: Currently expanding my knowledge in **microservices architecture, Docker, PostgreSQL**, and **API development**.
+  - IT Support Intern, later Full-Time IT Support at **Archem Diagnostics**.  
+  - Gained experience in **Windows systems, Active Directory, network basics, hardware troubleshooting, ERP, and log management**.  
+- 💡 **Volunteer Work**: Participated in community service projects with Toplum Gönüllüleri and Spor İstanbul, including coastal cleanups, event support, and motivating marathon runners.  
+- 🔍 **Ongoing Learning**: Expanding skills in **network and system management, advanced IT support tools, Docker, PostgreSQL, and API development**.
 
 ### Connect with Me
 
@@ -29,23 +25,16 @@ I'm an **aspiring Full Stack Developer** passionate about building innovative, s
   </a>
 </div>
 
-
-
-
 ---
 
 ### 🛠️ Languages and Tools
 <p align="left">
   <img src="https://cdn0.iconfinder.com/data/icons/programming-1-1/32/Programming_C-4-64.png" alt="C#" width="30" height="30"/>
-  <img src="https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/Unity_3D.png" alt="Unity" width="30" height="30"/>
   <img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/10-html5-64.png" alt="HTML" width="30" height="30"/>
   <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/76-office-64.png" alt="Microsoft Office" width="30" height="30"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="30" height="30"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="30" height="30"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="Docker" width="30" height="30"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="30" height="30"/>
 </p>
-
 
 ---
 
@@ -54,5 +43,3 @@ I'm an **aspiring Full Stack Developer** passionate about building innovative, s
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ozlemarslan&show_icons=true&theme=radical" alt="Özlem's GitHub Stats" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemarslan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
